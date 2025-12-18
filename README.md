@@ -6,8 +6,9 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=SikongJueluo&show_icons=true&theme=transparent&locale=en" alt="SikongJueluo" /></p>
 
 ### 🔭 I'm currently working on
-- FlashAttention on VLA
-- Minecraft utils
+- Hardware implementation of navigation algorithm
+- Optimization of VLA 
+- Minecraft utils / mods
 
 ### 🌱 I’m currently learning
 - Machine Learning & Embodied Intelligence
