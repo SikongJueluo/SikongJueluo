@@ -1,4 +1,4 @@
-# Hi 👋, I'm Yugeng Pang
+# Hi 👋, I'm SikongJueluo
 
 ### A hardware engineer who knows nothing about frontend / backend can't be a good chip engineer
 ### 不会前后端的硬件工程师不是好的芯片工程师
