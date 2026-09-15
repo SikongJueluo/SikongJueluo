@@ -31,8 +31,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-### 📝 Blogs: **[https://swordlost.top](https://swordlost.top)**
-### ⌨️ Repos: **[https://git.swordlost.top](https://git.swordlost.top)**
+### 📝 Blogs: **[blog.swordlost.top](https://blog.swordlost.top)**
+### ⌨️ Repos: **[git.swordlost.top](https://git.swordlost.top)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
